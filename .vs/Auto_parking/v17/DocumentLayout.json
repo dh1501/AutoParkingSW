@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Auto_parking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F8153E-7D25-4E66-9653-606AD3F41DFA}|Auto_parking\\Auto_parking.csproj|e:\\auto_parking\\auto_parking\\webcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F8153E-7D25-4E66-9653-606AD3F41DFA}|Auto_parking\\Auto_parking.csproj|solutionrelative:auto_parking\\webcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F8153E-7D25-4E66-9653-606AD3F41DFA}|Auto_parking\\Auto_parking.csproj|E:\\Auto_parking\\auto_parking\\findcontours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F8153E-7D25-4E66-9653-606AD3F41DFA}|Auto_parking\\Auto_parking.csproj|solutionrelative:auto_parking\\findcontours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WEBCAM.cs",
+              "DocumentMoniker": "E:\\Auto_parking\\Auto_parking\\WEBCAM.cs",
+              "RelativeDocumentMoniker": "Auto_parking\\WEBCAM.cs",
+              "ToolTip": "E:\\Auto_parking\\Auto_parking\\WEBCAM.cs",
+              "RelativeToolTip": "Auto_parking\\WEBCAM.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T13:19:20.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindContours.cs",
+              "DocumentMoniker": "E:\\Auto_parking\\Auto_parking\\FindContours.cs",
+              "RelativeDocumentMoniker": "Auto_parking\\FindContours.cs",
+              "ToolTip": "E:\\Auto_parking\\Auto_parking\\FindContours.cs",
+              "RelativeToolTip": "Auto_parking\\FindContours.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T11:27:33.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
